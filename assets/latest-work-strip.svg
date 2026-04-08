@@ -1,0 +1,80 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 180" role="img" aria-labelledby="title desc">
+  <title id="title">Avivly Latest Work Strip</title>
+  <desc id="desc">Animated strip for showcasing the latest valuable work, designed as a GitHub profile placeholder.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#fff7ee" />
+      <stop offset="50%" stop-color="#f7ead8" />
+      <stop offset="100%" stop-color="#f8f1e8" />
+    </linearGradient>
+    <linearGradient id="card" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#ffffff" stop-opacity="0.96" />
+      <stop offset="100%" stop-color="#fff6eb" stop-opacity="0.98" />
+    </linearGradient>
+    <filter id="shadow" x="-20%" y="-20%" width="140%" height="140%">
+      <feDropShadow dx="0" dy="10" stdDeviation="12" flood-color="#5e4a39" flood-opacity="0.12" />
+    </filter>
+    <clipPath id="rounded">
+      <rect x="0" y="0" width="1600" height="180" rx="26" ry="26" />
+    </clipPath>
+  </defs>
+
+  <g clip-path="url(#rounded)">
+    <rect width="1600" height="180" fill="url(#bg)" />
+    <path d="M0 42 H1600" stroke="#111111" stroke-opacity="0.08" stroke-dasharray="10 12" />
+    <path d="M0 138 H1600" stroke="#111111" stroke-opacity="0.08" stroke-dasharray="10 12" />
+
+    <g transform="translate(-180,0)">
+      <rect x="0" y="58" width="250" height="64" rx="22" fill="#111111" opacity="0.94">
+        <animateTransform attributeName="transform" type="translate" values="0 0;1880 0" dur="18s" repeatCount="indefinite" />
+      </rect>
+      <text x="126" y="84" text-anchor="middle" fill="#fff9f1" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="14" font-weight="700" letter-spacing="0.14em">
+        LATEST CREATION
+        <animateTransform attributeName="transform" type="translate" values="0 0;1880 0" dur="18s" repeatCount="indefinite" />
+      </text>
+      <text x="126" y="104" text-anchor="middle" fill="#f7ead8" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="13">
+        featured, intentional, useful
+        <animateTransform attributeName="transform" type="translate" values="0 0;1880 0" dur="18s" repeatCount="indefinite" />
+      </text>
+
+      <rect x="280" y="58" width="322" height="64" rx="22" fill="#ffffff" stroke="#111111" stroke-opacity="0.12">
+        <animateTransform attributeName="transform" type="translate" values="0 0;1880 0" dur="18s" repeatCount="indefinite" />
+      </rect>
+      <text x="441" y="82" text-anchor="middle" fill="#111111" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="14" font-weight="700" letter-spacing="0.14em">
+        LATEST UPDATE
+        <animateTransform attributeName="transform" type="translate" values="0 0;1880 0" dur="18s" repeatCount="indefinite" />
+      </text>
+      <text x="441" y="103" text-anchor="middle" fill="#5e5a55" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="13">
+        improves clarity, value, or capability
+        <animateTransform attributeName="transform" type="translate" values="0 0;1880 0" dur="18s" repeatCount="indefinite" />
+      </text>
+
+      <rect x="628" y="58" width="252" height="64" rx="22" fill="#fff0da" stroke="#111111" stroke-opacity="0.12">
+        <animateTransform attributeName="transform" type="translate" values="0 0;1880 0" dur="18s" repeatCount="indefinite" />
+      </rect>
+      <text x="754" y="82" text-anchor="middle" fill="#111111" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="14" font-weight="700" letter-spacing="0.14em">
+        RECENT SIGNAL
+        <animateTransform attributeName="transform" type="translate" values="0 0;1880 0" dur="18s" repeatCount="indefinite" />
+      </text>
+      <text x="754" y="103" text-anchor="middle" fill="#5e5a55" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="13">
+        auto-updated, value-filtered
+        <animateTransform attributeName="transform" type="translate" values="0 0;1880 0" dur="18s" repeatCount="indefinite" />
+      </text>
+    </g>
+
+    <g opacity="0.84">
+      <path d="M96 94 H1504" stroke="#111111" stroke-opacity="0.12" stroke-width="1.2" />
+      <circle cx="128" cy="94" r="8" fill="#1ea896">
+        <animate attributeName="r" values="7;9;7" dur="2.2s" repeatCount="indefinite" />
+      </circle>
+      <circle cx="800" cy="94" r="8" fill="#ff7a45">
+        <animate attributeName="r" values="7;9;7" dur="2.8s" repeatCount="indefinite" />
+      </circle>
+      <circle cx="1472" cy="94" r="8" fill="#ffd84d">
+        <animate attributeName="r" values="7;9;7" dur="3.2s" repeatCount="indefinite" />
+      </circle>
+      <circle cx="520" cy="94" r="4" fill="#111111" fill-opacity="0.46" />
+      <circle cx="1080" cy="94" r="4" fill="#111111" fill-opacity="0.46" />
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,171 @@
+{
+  "generatedAt": "2026-04-08T07:11:32.438Z",
+  "owner": "avivlyweb",
+  "source": "GitHub public repos API",
+  "totalPublicRepos": 24,
+  "meaningfulRepos": 21,
+  "featuredCreation": {
+    "caption": "Latest creation",
+    "repo": "prettig-thuis",
+    "title": "prettig-thuis",
+    "summary": "A calm, trust-heavy Base44 app for care, routines, and home support.",
+    "url": "https://github.com/avivlyweb/prettig-thuis",
+    "homepage": null,
+    "pushedAt": "2026-04-06T16:45:42Z",
+    "stars": 0,
+    "source": "manual+live"
+  },
+  "featuredUpdate": {
+    "caption": "Latest meaningful update",
+    "repo": "pubmed-gemini-extension",
+    "title": "pubmed-gemini-extension",
+    "summary": "A stronger research layer for PubMed workflows, aimed at high-signal medical search and evidence handling.",
+    "url": "https://github.com/avivlyweb/pubmed-gemini-extension",
+    "homepage": null,
+    "pushedAt": "2026-03-22T10:17:02Z",
+    "stars": 1,
+    "source": "manual+live"
+  },
+  "recentPublicWork": [
+    {
+      "name": "pubmed-gemini-extension",
+      "fullName": "avivlyweb/pubmed-gemini-extension",
+      "url": "https://github.com/avivlyweb/pubmed-gemini-extension",
+      "homepage": null,
+      "description": "PubMed MCP server for Gemini CLI - PhD-level medical research analysis",
+      "pushedAt": "2026-03-22T10:17:02Z",
+      "stars": 1,
+      "language": null,
+      "signal": "pubmed, research",
+      "signalScore": 1116.128814375,
+      "highlight": "described",
+      "matchedKeywords": [
+        "pubmed",
+        "research",
+        "extension"
+      ]
+    },
+    {
+      "name": "a-proof-demo",
+      "fullName": "avivlyweb/a-proof-demo",
+      "url": "https://github.com/avivlyweb/a-proof-demo",
+      "homepage": null,
+      "description": "Base44 App: A-PROOF Demo",
+      "pushedAt": "2026-04-01T08:08:03Z",
+      "stars": 0,
+      "language": null,
+      "signal": "proof, demo",
+      "signalScore": 1093.0392426157407,
+      "highlight": "described",
+      "matchedKeywords": [
+        "proof",
+        "demo"
+      ]
+    },
+    {
+      "name": "nagomi-pubmed-plugin",
+      "fullName": "avivlyweb/nagomi-pubmed-plugin",
+      "url": "https://github.com/avivlyweb/nagomi-pubmed-plugin",
+      "homepage": null,
+      "description": "Forensic-grade PubMed research engine — Claude Code plugin",
+      "pushedAt": "2026-02-27T22:11:18Z",
+      "stars": 0,
+      "language": null,
+      "signal": "pubmed, research",
+      "signalScore": 1085.6248328935185,
+      "highlight": "described",
+      "matchedKeywords": [
+        "pubmed",
+        "research",
+        "plugin"
+      ]
+    },
+    {
+      "name": "pubmed-claude-plugin",
+      "fullName": "avivlyweb/pubmed-claude-plugin",
+      "url": "https://github.com/avivlyweb/pubmed-claude-plugin",
+      "homepage": null,
+      "description": "PhD-level PubMed medical research plugin for Claude Code. Search 35M+ studies, evidence-weighted verdicts, ABC-TOM v3.0 citation verification, and systematic evidence synthesis.",
+      "pushedAt": "2026-02-19T15:22:52Z",
+      "stars": 0,
+      "language": null,
+      "signal": "pubmed, research",
+      "signalScore": 1077.3411986342594,
+      "highlight": "described",
+      "matchedKeywords": [
+        "pubmed",
+        "research",
+        "plugin"
+      ]
+    },
+    {
+      "name": "aproof-demo",
+      "fullName": "avivlyweb/aproof-demo",
+      "url": "https://github.com/avivlyweb/aproof-demo",
+      "homepage": null,
+      "description": "A-PROOF voice demo — live ICF domain classification from Dutch speech (VU Amsterdam/CLTL)",
+      "pushedAt": "2026-02-16T04:51:09Z",
+      "stars": 0,
+      "language": null,
+      "signal": "proof, voice",
+      "signalScore": 1073.9025065046296,
+      "highlight": "described",
+      "matchedKeywords": [
+        "proof",
+        "voice",
+        "demo"
+      ]
+    },
+    {
+      "name": "crisp-dashboard",
+      "fullName": "avivlyweb/crisp-dashboard",
+      "url": "https://github.com/avivlyweb/crisp-dashboard",
+      "homepage": null,
+      "description": "CRISP Multi-Agent Clinical Reasoning Dashboard - Interactive visualization of a 6-agent debate for stroke rehabilitation",
+      "pushedAt": "2026-02-14T13:19:28Z",
+      "stars": 0,
+      "language": null,
+      "signal": "crisp, agent",
+      "signalScore": 1072.255504189815,
+      "highlight": "described",
+      "matchedKeywords": [
+        "crisp",
+        "agent",
+        "dashboard"
+      ]
+    }
+  ],
+  "meta": {
+    "recentWorkLimit": 6,
+    "excludeRepos": [
+      "aviv",
+      "avivly",
+      "avivtest",
+      "avivlytest",
+      "aviv-gatsby-test",
+      "avivtesting-fc3f8",
+      "starter-express-api",
+      "streamlit-example",
+      "FlowiseAI-Railway",
+      "casenow"
+    ],
+    "keywordBoosts": [
+      "pubmed",
+      "charlie",
+      "proof",
+      "crisp",
+      "practice",
+      "physio",
+      "care",
+      "agent",
+      "token",
+      "research",
+      "voice",
+      "dashboard",
+      "plugin",
+      "extension",
+      "demo",
+      "health"
+    ]
+  }
+}

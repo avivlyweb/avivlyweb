@@ -1,0 +1,51 @@
+{
+  "owner": "avivlyweb",
+  "recentWorkLimit": 6,
+  "featuredCreation": {
+    "repo": "prettig-thuis",
+    "caption": "Latest creation",
+    "summary": "A calm, trust-heavy Base44 app for care, routines, and home support."
+  },
+  "featuredUpdate": {
+    "repo": "pubmed-gemini-extension",
+    "caption": "Latest meaningful update",
+    "summary": "A stronger research layer for PubMed workflows, aimed at high-signal medical search and evidence handling."
+  },
+  "excludeRepos": [
+    "aviv",
+    "avivly",
+    "avivtest",
+    "avivlytest",
+    "aviv-gatsby-test",
+    "avivtesting-fc3f8",
+    "starter-express-api",
+    "streamlit-example",
+    "FlowiseAI-Railway",
+    "casenow"
+  ],
+  "keywordBoosts": [
+    "pubmed",
+    "charlie",
+    "proof",
+    "crisp",
+    "practice",
+    "physio",
+    "care",
+    "agent",
+    "token",
+    "research",
+    "voice",
+    "dashboard",
+    "plugin",
+    "extension",
+    "demo",
+    "health"
+  ],
+  "boilerplateNameTokens": [
+    "starter",
+    "example",
+    "template",
+    "test",
+    "demo"
+  ]
+}
