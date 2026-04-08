@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-08T07:11:32.438Z",
+  "generatedAt": "2026-04-08T07:12:14.562Z",
   "owner": "avivlyweb",
   "source": "GitHub public repos API",
   "totalPublicRepos": 24,
@@ -37,7 +37,7 @@
       "stars": 1,
       "language": null,
       "signal": "pubmed, research",
-      "signalScore": 1116.128814375,
+      "signalScore": 1116.1283268402776,
       "highlight": "described",
       "matchedKeywords": [
         "pubmed",
@@ -55,7 +55,7 @@
       "stars": 0,
       "language": null,
       "signal": "proof, demo",
-      "signalScore": 1093.0392426157407,
+      "signalScore": 1093.0387550810185,
       "highlight": "described",
       "matchedKeywords": [
         "proof",
@@ -72,7 +72,7 @@
       "stars": 0,
       "language": null,
       "signal": "pubmed, research",
-      "signalScore": 1085.6248328935185,
+      "signalScore": 1085.6243453587963,
       "highlight": "described",
       "matchedKeywords": [
         "pubmed",
@@ -90,7 +90,7 @@
       "stars": 0,
       "language": null,
       "signal": "pubmed, research",
-      "signalScore": 1077.3411986342594,
+      "signalScore": 1077.340711087963,
       "highlight": "described",
       "matchedKeywords": [
         "pubmed",
@@ -108,7 +108,7 @@
       "stars": 0,
       "language": null,
       "signal": "proof, voice",
-      "signalScore": 1073.9025065046296,
+      "signalScore": 1073.9020189583334,
       "highlight": "described",
       "matchedKeywords": [
         "proof",
@@ -126,7 +126,7 @@
       "stars": 0,
       "language": null,
       "signal": "crisp, agent",
-      "signalScore": 1072.255504189815,
+      "signalScore": 1072.2550166435185,
       "highlight": "described",
       "matchedKeywords": [
         "crisp",

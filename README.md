@@ -21,7 +21,22 @@
 ## Latest Signal
 
 <!--LATEST-SIGNAL-START-->
-_Run `node scripts/generate-profile-assets.mjs --write` to refresh this section._
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>Latest creation</h3>
+      <p><strong><a href="https://github.com/avivlyweb/prettig-thuis">prettig-thuis</a></strong><br />
+      A calm, trust-heavy Base44 app for care, routines, and home support.</p>
+      <p><sub>Last public signal: Apr 6, 2026</sub></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>Latest meaningful update</h3>
+      <p><strong><a href="https://github.com/avivlyweb/pubmed-gemini-extension">pubmed-gemini-extension</a></strong><br />
+      A stronger research layer for PubMed workflows, aimed at high-signal medical search and evidence handling.</p>
+      <p><sub>Last public signal: Mar 22, 2026</sub></p>
+    </td>
+  </tr>
+</table>
 <!--LATEST-SIGNAL-END-->
 
 <p align="center">
@@ -65,7 +80,16 @@ _Run `node scripts/generate-profile-assets.mjs --write` to refresh this section.
 ## Live Lab Feed
 
 <!--LIVE-LAB-FEED-START-->
-_Run `node scripts/generate-profile-assets.mjs --write` to refresh this section._
+> Auto-refreshed from public repo activity on Apr 8, 2026. Recency is filtered for signal, not just noise.
+
+| Repo | What changed matters | Signal | Updated |
+| --- | --- | --- | --- |
+| [pubmed-gemini-extension](https://github.com/avivlyweb/pubmed-gemini-extension) | PubMed MCP server for Gemini CLI - PhD-level medical research analysis | pubmed, research | Mar 22, 2026 |
+| [a-proof-demo](https://github.com/avivlyweb/a-proof-demo) | Base44 App: A-PROOF Demo | proof, demo | Apr 1, 2026 |
+| [nagomi-pubmed-plugin](https://github.com/avivlyweb/nagomi-pubmed-plugin) | Forensic-grade PubMed research engine — Claude Code plugin | pubmed, research | Feb 27, 2026 |
+| [pubmed-claude-plugin](https://github.com/avivlyweb/pubmed-claude-plugin) | PhD-level PubMed medical research plugin for Claude Code. Search 35M+ studies, evidence-weighted verdicts, ABC-TOM v3.0 citation verification, and systematic evidence synthesis. | pubmed, research | Feb 19, 2026 |
+| [aproof-demo](https://github.com/avivlyweb/aproof-demo) | A-PROOF voice demo — live ICF domain classification from Dutch speech (VU Amsterdam/CLTL) | proof, voice | Feb 16, 2026 |
+| [crisp-dashboard](https://github.com/avivlyweb/crisp-dashboard) | CRISP Multi-Agent Clinical Reasoning Dashboard - Interactive visualization of a 6-agent debate for stroke rehabilitation | crisp, agent | Feb 14, 2026 |
 <!--LIVE-LAB-FEED-END-->
 
 ## Current Focus
