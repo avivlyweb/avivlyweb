@@ -27,7 +27,7 @@
       <h3>Latest creation</h3>
       <p><strong><a href="https://github.com/avivlyweb/prettig-thuis">prettig-thuis</a></strong><br />
       A calm, trust-heavy Base44 app for care, routines, and home support.</p>
-      <p><sub>Last public signal: Apr 6, 2026</sub></p>
+      <p><sub>Last public signal: Apr 23, 2026</sub></p>
     </td>
     <td width="50%" valign="top">
       <h3>Latest meaningful update</h3>
@@ -80,7 +80,7 @@
 ## Live Lab Feed
 
 <!--LIVE-LAB-FEED-START-->
-> Auto-refreshed from public repo activity on Apr 22, 2026. Recency is filtered for signal, not just noise.
+> Auto-refreshed from public repo activity on Apr 23, 2026. Recency is filtered for signal, not just noise.
 
 | Repo | What changed matters | Signal | Updated |
 | --- | --- | --- | --- |
