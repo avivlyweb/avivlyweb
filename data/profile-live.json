@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-26T07:55:22.903Z",
+  "generatedAt": "2026-04-27T08:41:51.808Z",
   "owner": "avivlyweb",
   "source": "GitHub public repos API",
   "totalPublicRepos": 36,
@@ -11,7 +11,7 @@
     "summary": "A calm, trust-heavy Base44 app for care, routines, and home support.",
     "url": "https://github.com/avivlyweb/prettig-thuis",
     "homepage": null,
-    "pushedAt": "2026-04-23T00:48:03Z",
+    "pushedAt": "2026-04-27T02:54:14Z",
     "stars": 0,
     "source": "manual+live"
   },
@@ -37,7 +37,7 @@
       "stars": 1,
       "language": "Python",
       "signal": "pubmed, research",
-      "signalScore": 1098.0983691782408,
+      "signalScore": 1097.0660901851852,
       "highlight": "described",
       "matchedKeywords": [
         "pubmed",
@@ -55,7 +55,7 @@
       "stars": 0,
       "language": "JavaScript",
       "signal": "proof, demo",
-      "signalScore": 1075.0087974189814,
+      "signalScore": 1073.9765184259259,
       "highlight": "described",
       "matchedKeywords": [
         "proof",
@@ -72,7 +72,7 @@
       "stars": 0,
       "language": "Python",
       "signal": "pubmed, research",
-      "signalScore": 1067.5943876967592,
+      "signalScore": 1066.5621087037039,
       "highlight": "described",
       "matchedKeywords": [
         "pubmed",
@@ -90,7 +90,7 @@
       "stars": 0,
       "language": "Python",
       "signal": "pubmed, research",
-      "signalScore": 1059.3107534375,
+      "signalScore": 1058.2784744444443,
       "highlight": "described",
       "matchedKeywords": [
         "pubmed",
@@ -108,7 +108,7 @@
       "stars": 0,
       "language": "JavaScript",
       "signal": "proof, voice",
-      "signalScore": 1055.8720613078704,
+      "signalScore": 1054.8397823148148,
       "highlight": "described",
       "matchedKeywords": [
         "proof",
@@ -126,7 +126,7 @@
       "stars": 0,
       "language": "HTML",
       "signal": "crisp, agent",
-      "signalScore": 1054.2250589930554,
+      "signalScore": 1053.1927799999999,
       "highlight": "described",
       "matchedKeywords": [
         "crisp",
