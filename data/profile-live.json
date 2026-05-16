@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-15T09:24:47.118Z",
+  "generatedAt": "2026-05-16T08:20:12.976Z",
   "owner": "avivlyweb",
   "source": "GitHub public repos API",
   "totalPublicRepos": 36,
@@ -23,7 +23,7 @@
     "url": "https://github.com/avivlyweb/pubmed-gemini-extension",
     "homepage": null,
     "pushedAt": "2026-03-22T10:17:02Z",
-    "stars": 1,
+    "stars": 2,
     "source": "manual+live"
   },
   "recentPublicWork": [
@@ -34,10 +34,10 @@
       "homepage": null,
       "description": "PubMed MCP server for Gemini CLI - PhD-level medical research analysis",
       "pushedAt": "2026-03-22T10:17:02Z",
-      "stars": 1,
+      "stars": 2,
       "language": "Python",
       "signal": "pubmed, research",
-      "signalScore": 1079.0362833564814,
+      "signalScore": 1086.081122962963,
       "highlight": "described",
       "matchedKeywords": [
         "pubmed",
@@ -55,7 +55,7 @@
       "stars": 0,
       "language": "JavaScript",
       "signal": "proof, demo",
-      "signalScore": 1055.9467115972222,
+      "signalScore": 1054.9915512037037,
       "highlight": "described",
       "matchedKeywords": [
         "proof",
@@ -72,7 +72,7 @@
       "stars": 0,
       "language": "Python",
       "signal": "pubmed, research",
-      "signalScore": 1048.532301875,
+      "signalScore": 1047.5771414814815,
       "highlight": "described",
       "matchedKeywords": [
         "pubmed",
@@ -90,7 +90,7 @@
       "stars": 0,
       "language": "Python",
       "signal": "pubmed, research",
-      "signalScore": 1040.2486676157407,
+      "signalScore": 1039.2935072222222,
       "highlight": "described",
       "matchedKeywords": [
         "pubmed",
@@ -108,7 +108,7 @@
       "stars": 0,
       "language": "JavaScript",
       "signal": "proof, voice",
-      "signalScore": 1036.8099754861112,
+      "signalScore": 1035.8548150925926,
       "highlight": "described",
       "matchedKeywords": [
         "proof",
@@ -126,7 +126,7 @@
       "stars": 0,
       "language": "HTML",
       "signal": "crisp, agent",
-      "signalScore": 1035.1629731712962,
+      "signalScore": 1034.2078127777777,
       "highlight": "described",
       "matchedKeywords": [
         "crisp",
