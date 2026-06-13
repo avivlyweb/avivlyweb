@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-12T10:40:27.505Z",
+  "generatedAt": "2026-06-13T09:35:20.468Z",
   "owner": "avivlyweb",
   "source": "GitHub public repos API",
   "totalPublicRepos": 36,
@@ -28,6 +28,23 @@
   },
   "recentPublicWork": [
     {
+      "name": "a-proof-demo",
+      "fullName": "avivlyweb/a-proof-demo",
+      "url": "https://github.com/avivlyweb/a-proof-demo",
+      "homepage": null,
+      "description": "Base44 App: A-PROOF Demo",
+      "pushedAt": "2026-06-12T14:58:31Z",
+      "stars": 0,
+      "language": "JavaScript",
+      "signal": "proof, demo",
+      "signalScore": 1099.2244274652778,
+      "highlight": "described",
+      "matchedKeywords": [
+        "proof",
+        "demo"
+      ]
+    },
+    {
       "name": "pubmed-gemini-extension",
       "fullName": "avivlyweb/pubmed-gemini-extension",
       "url": "https://github.com/avivlyweb/pubmed-gemini-extension",
@@ -37,29 +54,12 @@
       "stars": 2,
       "language": "Python",
       "signal": "pubmed, research",
-      "signalScore": 1058.9837325925926,
+      "signalScore": 1058.0289529282409,
       "highlight": "described",
       "matchedKeywords": [
         "pubmed",
         "research",
         "extension"
-      ]
-    },
-    {
-      "name": "a-proof-demo",
-      "fullName": "avivlyweb/a-proof-demo",
-      "url": "https://github.com/avivlyweb/a-proof-demo",
-      "homepage": null,
-      "description": "Base44 App: A-PROOF Demo",
-      "pushedAt": "2026-04-01T08:08:03Z",
-      "stars": 0,
-      "language": "JavaScript",
-      "signal": "proof, demo",
-      "signalScore": 1027.8941608333334,
-      "highlight": "described",
-      "matchedKeywords": [
-        "proof",
-        "demo"
       ]
     },
     {
@@ -72,7 +72,7 @@
       "stars": 0,
       "language": "Python",
       "signal": "pubmed, research",
-      "signalScore": 1020.4797511111111,
+      "signalScore": 1019.5249714467593,
       "highlight": "described",
       "matchedKeywords": [
         "pubmed",
@@ -90,7 +90,7 @@
       "stars": 0,
       "language": "Python",
       "signal": "pubmed, research",
-      "signalScore": 1012.1961168518519,
+      "signalScore": 1011.2413371875,
       "highlight": "described",
       "matchedKeywords": [
         "pubmed",
@@ -108,7 +108,7 @@
       "stars": 0,
       "language": "JavaScript",
       "signal": "proof, voice",
-      "signalScore": 1008.7574247222223,
+      "signalScore": 1007.8026450462963,
       "highlight": "described",
       "matchedKeywords": [
         "proof",
@@ -126,7 +126,7 @@
       "stars": 0,
       "language": "HTML",
       "signal": "crisp, agent",
-      "signalScore": 1007.1104223958333,
+      "signalScore": 1006.1556427314815,
       "highlight": "described",
       "matchedKeywords": [
         "crisp",
