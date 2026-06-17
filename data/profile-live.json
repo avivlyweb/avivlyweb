@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-16T11:36:08.413Z",
+  "generatedAt": "2026-06-17T11:17:50.546Z",
   "owner": "avivlyweb",
   "source": "GitHub public repos API",
   "totalPublicRepos": 36,
@@ -37,7 +37,7 @@
       "stars": 0,
       "language": "JavaScript",
       "signal": "proof, demo",
-      "signalScore": 1096.140539201389,
+      "signalScore": 1095.1532459953705,
       "highlight": "described",
       "matchedKeywords": [
         "proof",
@@ -54,7 +54,7 @@
       "stars": 2,
       "language": "Python",
       "signal": "pubmed, research",
-      "signalScore": 1054.9450646643518,
+      "signalScore": 1053.9577714583334,
       "highlight": "described",
       "matchedKeywords": [
         "pubmed",
@@ -72,7 +72,7 @@
       "stars": 0,
       "language": "Python",
       "signal": "pubmed, research",
-      "signalScore": 1016.4410831828703,
+      "signalScore": 1015.4537899768518,
       "highlight": "described",
       "matchedKeywords": [
         "pubmed",
@@ -90,7 +90,7 @@
       "stars": 0,
       "language": "Python",
       "signal": "pubmed, research",
-      "signalScore": 1008.1574489236111,
+      "signalScore": 1007.1701557175926,
       "highlight": "described",
       "matchedKeywords": [
         "pubmed",
@@ -108,7 +108,7 @@
       "stars": 0,
       "language": "JavaScript",
       "signal": "proof, voice",
-      "signalScore": 1004.7187567939815,
+      "signalScore": 1003.7314635879629,
       "highlight": "described",
       "matchedKeywords": [
         "proof",
@@ -126,7 +126,7 @@
       "stars": 0,
       "language": "HTML",
       "signal": "crisp, agent",
-      "signalScore": 1003.0717544791667,
+      "signalScore": 1002.0844612731481,
       "highlight": "described",
       "matchedKeywords": [
         "crisp",
