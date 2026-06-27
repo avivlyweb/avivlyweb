@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-06-26T09:52:19.296Z",
+  "generatedAt": "2026-06-27T09:05:44.825Z",
   "owner": "avivlyweb",
   "source": "GitHub public repos API",
-  "totalPublicRepos": 36,
-  "meaningfulRepos": 20,
+  "totalPublicRepos": 37,
+  "meaningfulRepos": 21,
   "featuredCreation": {
     "caption": "Latest creation",
     "repo": "prettig-thuis",
@@ -37,12 +37,26 @@
       "stars": 0,
       "language": "JavaScript",
       "signal": "proof, demo",
-      "signalScore": 1086.212635474537,
+      "signalScore": 1085.2449788773147,
       "highlight": "described",
       "matchedKeywords": [
         "proof",
         "demo"
       ]
+    },
+    {
+      "name": "feedback-ready-Canvas-E-I",
+      "fullName": "avivlyweb/feedback-ready-Canvas-E-I",
+      "url": "https://github.com/avivlyweb/feedback-ready-Canvas-E-I",
+      "homepage": "https://feedback-ready-canvas-e-i.vercel.app",
+      "description": "feedback tool ready Canvas E&I",
+      "pushedAt": "2026-06-27T08:01:42Z",
+      "stars": 0,
+      "language": "TypeScript",
+      "signal": "recent public work",
+      "signalScore": 1084.9555228587963,
+      "highlight": "described",
+      "matchedKeywords": []
     },
     {
       "name": "pubmed-gemini-extension",
@@ -54,7 +68,7 @@
       "stars": 2,
       "language": "Python",
       "signal": "pubmed, research",
-      "signalScore": 1045.0171609375,
+      "signalScore": 1044.0495043402777,
       "highlight": "described",
       "matchedKeywords": [
         "pubmed",
@@ -72,7 +86,7 @@
       "stars": 0,
       "language": "Python",
       "signal": "pubmed, research",
-      "signalScore": 1006.5131794560185,
+      "signalScore": 1005.5455228587963,
       "highlight": "described",
       "matchedKeywords": [
         "pubmed",
@@ -90,7 +104,7 @@
       "stars": 0,
       "language": "Python",
       "signal": "pubmed, research",
-      "signalScore": 998.2295451967593,
+      "signalScore": 997.2618885995371,
       "highlight": "described",
       "matchedKeywords": [
         "pubmed",
@@ -108,30 +122,12 @@
       "stars": 0,
       "language": "JavaScript",
       "signal": "proof, voice",
-      "signalScore": 994.7908530555555,
+      "signalScore": 993.8231964699074,
       "highlight": "described",
       "matchedKeywords": [
         "proof",
         "voice",
         "demo"
-      ]
-    },
-    {
-      "name": "crisp-dashboard",
-      "fullName": "avivlyweb/crisp-dashboard",
-      "url": "https://github.com/avivlyweb/crisp-dashboard",
-      "homepage": null,
-      "description": "CRISP Multi-Agent Clinical Reasoning Dashboard - Interactive visualization of a 6-agent debate for stroke rehabilitation",
-      "pushedAt": "2026-02-14T13:19:28Z",
-      "stars": 0,
-      "language": "HTML",
-      "signal": "crisp, agent",
-      "signalScore": 993.1438507407407,
-      "highlight": "described",
-      "matchedKeywords": [
-        "crisp",
-        "agent",
-        "dashboard"
       ]
     }
   ],
