@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-27T09:05:44.825Z",
+  "generatedAt": "2026-06-28T09:33:14.716Z",
   "owner": "avivlyweb",
   "source": "GitHub public repos API",
   "totalPublicRepos": 37,
@@ -28,6 +28,20 @@
   },
   "recentPublicWork": [
     {
+      "name": "feedback-ready-Canvas-E-I",
+      "fullName": "avivlyweb/feedback-ready-Canvas-E-I",
+      "url": "https://github.com/avivlyweb/feedback-ready-Canvas-E-I",
+      "homepage": "https://feedback-ready-canvas-e-i.vercel.app",
+      "description": "feedback tool ready Canvas E&I",
+      "pushedAt": "2026-06-28T08:54:55Z",
+      "stars": 0,
+      "language": "TypeScript",
+      "signal": "recent public work",
+      "signalScore": 1084.9733829282409,
+      "highlight": "described",
+      "matchedKeywords": []
+    },
+    {
       "name": "a-proof-demo",
       "fullName": "avivlyweb/a-proof-demo",
       "url": "https://github.com/avivlyweb/a-proof-demo",
@@ -37,26 +51,12 @@
       "stars": 0,
       "language": "JavaScript",
       "signal": "proof, demo",
-      "signalScore": 1085.2449788773147,
+      "signalScore": 1084.2258829166667,
       "highlight": "described",
       "matchedKeywords": [
         "proof",
         "demo"
       ]
-    },
-    {
-      "name": "feedback-ready-Canvas-E-I",
-      "fullName": "avivlyweb/feedback-ready-Canvas-E-I",
-      "url": "https://github.com/avivlyweb/feedback-ready-Canvas-E-I",
-      "homepage": "https://feedback-ready-canvas-e-i.vercel.app",
-      "description": "feedback tool ready Canvas E&I",
-      "pushedAt": "2026-06-27T08:01:42Z",
-      "stars": 0,
-      "language": "TypeScript",
-      "signal": "recent public work",
-      "signalScore": 1084.9555228587963,
-      "highlight": "described",
-      "matchedKeywords": []
     },
     {
       "name": "pubmed-gemini-extension",
@@ -68,7 +68,7 @@
       "stars": 2,
       "language": "Python",
       "signal": "pubmed, research",
-      "signalScore": 1044.0495043402777,
+      "signalScore": 1043.0304083796295,
       "highlight": "described",
       "matchedKeywords": [
         "pubmed",
@@ -86,7 +86,7 @@
       "stars": 0,
       "language": "Python",
       "signal": "pubmed, research",
-      "signalScore": 1005.5455228587963,
+      "signalScore": 1004.5264268981482,
       "highlight": "described",
       "matchedKeywords": [
         "pubmed",
@@ -104,7 +104,7 @@
       "stars": 0,
       "language": "Python",
       "signal": "pubmed, research",
-      "signalScore": 997.2618885995371,
+      "signalScore": 996.2427926388889,
       "highlight": "described",
       "matchedKeywords": [
         "pubmed",
@@ -122,7 +122,7 @@
       "stars": 0,
       "language": "JavaScript",
       "signal": "proof, voice",
-      "signalScore": 993.8231964699074,
+      "signalScore": 992.8041005092592,
       "highlight": "described",
       "matchedKeywords": [
         "proof",
