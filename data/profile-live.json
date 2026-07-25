@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-24T08:43:39.688Z",
+  "generatedAt": "2026-07-25T08:24:41.896Z",
   "owner": "avivlyweb",
   "source": "GitHub public repos API",
   "totalPublicRepos": 38,
@@ -33,11 +33,11 @@
       "url": "https://github.com/avivlyweb/feedback-ready-Canvas-E-I",
       "homepage": "https://feedback-ready-canvas-e-i.vercel.app",
       "description": "feedback tool ready Canvas E&I",
-      "pushedAt": "2026-07-11T05:40:21Z",
+      "pushedAt": "2026-07-24T10:15:16Z",
       "stars": 0,
       "language": "TypeScript",
       "signal": "recent public work",
-      "signalScore": 1071.8727003703702,
+      "signalScore": 1084.076783611111,
       "highlight": "described",
       "matchedKeywords": []
     },
@@ -51,7 +51,7 @@
       "stars": 0,
       "language": "JavaScript",
       "signal": "proof, demo",
-      "signalScore": 1058.260316111111,
+      "signalScore": 1057.2734850000002,
       "highlight": "described",
       "matchedKeywords": [
         "proof",
@@ -68,7 +68,7 @@
       "stars": 2,
       "language": "Python",
       "signal": "pubmed, research",
-      "signalScore": 1017.0648415740741,
+      "signalScore": 1016.078010462963,
       "highlight": "described",
       "matchedKeywords": [
         "pubmed",
@@ -86,7 +86,7 @@
       "stars": 0,
       "language": "Python",
       "signal": "pubmed, research",
-      "signalScore": 978.5608600925926,
+      "signalScore": 977.5740289814814,
       "highlight": "described",
       "matchedKeywords": [
         "pubmed",
@@ -104,7 +104,7 @@
       "stars": 0,
       "language": "Python",
       "signal": "pubmed, research",
-      "signalScore": 970.2772258333333,
+      "signalScore": 969.2903947222222,
       "highlight": "described",
       "matchedKeywords": [
         "pubmed",
@@ -122,7 +122,7 @@
       "stars": 0,
       "language": "JavaScript",
       "signal": "proof, voice",
-      "signalScore": 966.8385337037037,
+      "signalScore": 965.8517025925926,
       "highlight": "described",
       "matchedKeywords": [
         "proof",
