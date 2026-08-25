@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-24T07:29:50.952Z",
+  "generatedAt": "2026-08-25T07:09:40.513Z",
   "owner": "avivlyweb",
   "source": "GitHub public repos API",
   "totalPublicRepos": 38,
@@ -11,7 +11,7 @@
     "summary": "A calm, trust-heavy Base44 app for care, routines, and home support.",
     "url": "https://github.com/avivlyweb/prettig-thuis",
     "homepage": null,
-    "pushedAt": "2026-04-30T03:29:16Z",
+    "pushedAt": "2026-08-25T07:06:39Z",
     "stars": 0,
     "source": "manual+live"
   },
@@ -37,7 +37,21 @@
       "stars": 0,
       "language": "TypeScript",
       "signal": "recent public work",
-      "signalScore": 1054.1148732407407,
+      "signalScore": 1053.1288829513887,
+      "highlight": "described",
+      "matchedKeywords": []
+    },
+    {
+      "name": "prettig-thuis",
+      "fullName": "avivlyweb/prettig-thuis",
+      "url": "https://github.com/avivlyweb/prettig-thuis",
+      "homepage": null,
+      "description": "Base44 App: Prettig Thuis",
+      "pushedAt": "2026-08-25T07:06:39Z",
+      "stars": 0,
+      "language": "JavaScript",
+      "signal": "recent public work",
+      "signalScore": 1049.9978991550925,
       "highlight": "described",
       "matchedKeywords": []
     },
@@ -51,7 +65,7 @@
       "stars": 0,
       "language": "JavaScript",
       "signal": "proof, demo",
-      "signalScore": 1027.3115746296296,
+      "signalScore": 1026.3255843402778,
       "highlight": "described",
       "matchedKeywords": [
         "proof",
@@ -68,7 +82,7 @@
       "stars": 2,
       "language": "Python",
       "signal": "pubmed, research",
-      "signalScore": 986.1161000925927,
+      "signalScore": 985.1301098032408,
       "highlight": "described",
       "matchedKeywords": [
         "pubmed",
@@ -86,7 +100,7 @@
       "stars": 0,
       "language": "Python",
       "signal": "pubmed, research",
-      "signalScore": 947.6121186111111,
+      "signalScore": 946.6261283217593,
       "highlight": "described",
       "matchedKeywords": [
         "pubmed",
@@ -104,30 +118,12 @@
       "stars": 0,
       "language": "Python",
       "signal": "pubmed, research",
-      "signalScore": 939.3284843518518,
+      "signalScore": 938.3424940625,
       "highlight": "described",
       "matchedKeywords": [
         "pubmed",
         "research",
         "plugin"
-      ]
-    },
-    {
-      "name": "aproof-demo",
-      "fullName": "avivlyweb/aproof-demo",
-      "url": "https://github.com/avivlyweb/aproof-demo",
-      "homepage": null,
-      "description": "A-PROOF voice demo — live ICF domain classification from Dutch speech (VU Amsterdam/CLTL)",
-      "pushedAt": "2026-02-16T04:51:09Z",
-      "stars": 0,
-      "language": "JavaScript",
-      "signal": "proof, voice",
-      "signalScore": 935.8897922222222,
-      "highlight": "described",
-      "matchedKeywords": [
-        "proof",
-        "voice",
-        "demo"
       ]
     }
   ],

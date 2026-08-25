@@ -27,7 +27,7 @@
       <h3>Latest creation</h3>
       <p><strong><a href="https://github.com/avivlyweb/prettig-thuis">prettig-thuis</a></strong><br />
       A calm, trust-heavy Base44 app for care, routines, and home support.</p>
-      <p><sub>Last public signal: Apr 30, 2026</sub></p>
+      <p><sub>Last public signal: Aug 25, 2026</sub></p>
     </td>
     <td width="50%" valign="top">
       <h3>Latest meaningful update</h3>
@@ -80,16 +80,16 @@
 ## Live Lab Feed
 
 <!--LIVE-LAB-FEED-START-->
-> Auto-refreshed from public repo activity on Aug 24, 2026. Recency is filtered for signal, not just noise.
+> Auto-refreshed from public repo activity on Aug 25, 2026. Recency is filtered for signal, not just noise.
 
 | Repo | What changed matters | Signal | Updated |
 | --- | --- | --- | --- |
 | [feedback-ready-Canvas-E-I](https://github.com/avivlyweb/feedback-ready-Canvas-E-I) | feedback tool ready Canvas E&I | recent public work | Jul 24, 2026 |
+| [prettig-thuis](https://github.com/avivlyweb/prettig-thuis) | Base44 App: Prettig Thuis | recent public work | Aug 25, 2026 |
 | [a-proof-demo](https://github.com/avivlyweb/a-proof-demo) | Base44 App: A-PROOF Demo | proof, demo | Jun 12, 2026 |
 | [pubmed-gemini-extension](https://github.com/avivlyweb/pubmed-gemini-extension) | PubMed MCP server for Gemini CLI - PhD-level medical research analysis | pubmed, research | Mar 22, 2026 |
 | [nagomi-pubmed-plugin](https://github.com/avivlyweb/nagomi-pubmed-plugin) | Forensic-grade PubMed research engine — Claude Code plugin | pubmed, research | Feb 27, 2026 |
 | [pubmed-claude-plugin](https://github.com/avivlyweb/pubmed-claude-plugin) | PhD-level PubMed medical research plugin for Claude Code. Search 35M+ studies, evidence-weighted verdicts, ABC-TOM v3.0 citation verification, and systematic evidence synthesis. | pubmed, research | Feb 19, 2026 |
-| [aproof-demo](https://github.com/avivlyweb/aproof-demo) | A-PROOF voice demo — live ICF domain classification from Dutch speech (VU Amsterdam/CLTL) | proof, voice | Feb 16, 2026 |
 <!--LIVE-LAB-FEED-END-->
 
 ## Current Focus
