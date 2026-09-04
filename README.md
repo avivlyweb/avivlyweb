@@ -80,7 +80,7 @@
 ## Live Lab Feed
 
 <!--LIVE-LAB-FEED-START-->
-> Auto-refreshed from public repo activity on Sep 3, 2026. Recency is filtered for signal, not just noise.
+> Auto-refreshed from public repo activity on Sep 4, 2026. Recency is filtered for signal, not just noise.
 
 | Repo | What changed matters | Signal | Updated |
 | --- | --- | --- | --- |

@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-03T11:18:50.683Z",
+  "generatedAt": "2026-09-04T11:22:01.774Z",
   "owner": "avivlyweb",
   "source": "GitHub public repos API",
   "totalPublicRepos": 38,
@@ -23,7 +23,7 @@
     "url": "https://github.com/avivlyweb/pubmed-gemini-extension",
     "homepage": null,
     "pushedAt": "2026-03-22T10:17:02Z",
-    "stars": 2,
+    "stars": 3,
     "source": "manual+live"
   },
   "recentPublicWork": [
@@ -37,7 +37,7 @@
       "stars": 0,
       "language": "TypeScript",
       "signal": "recent public work",
-      "signalScore": 1043.955848576389,
+      "signalScore": 1042.953636875,
       "highlight": "described",
       "matchedKeywords": []
     },
@@ -51,7 +51,7 @@
       "stars": 0,
       "language": "JavaScript",
       "signal": "recent public work",
-      "signalScore": 1040.8248647800926,
+      "signalScore": 1039.8226530787038,
       "highlight": "described",
       "matchedKeywords": []
     },
@@ -65,7 +65,7 @@
       "stars": 0,
       "language": "JavaScript",
       "signal": "proof, demo",
-      "signalScore": 1017.1525499652778,
+      "signalScore": 1016.1503382638889,
       "highlight": "described",
       "matchedKeywords": [
         "proof",
@@ -79,10 +79,10 @@
       "homepage": null,
       "description": "PubMed MCP server for Gemini CLI - PhD-level medical research analysis",
       "pushedAt": "2026-03-22T10:17:02Z",
-      "stars": 2,
+      "stars": 3,
       "language": "Python",
       "signal": "pubmed, research",
-      "signalScore": 975.9570754282407,
+      "signalScore": 982.9548637268518,
       "highlight": "described",
       "matchedKeywords": [
         "pubmed",
@@ -100,7 +100,7 @@
       "stars": 0,
       "language": "Python",
       "signal": "pubmed, research",
-      "signalScore": 937.4530939467593,
+      "signalScore": 936.4508822453704,
       "highlight": "described",
       "matchedKeywords": [
         "pubmed",
@@ -118,7 +118,7 @@
       "stars": 0,
       "language": "Python",
       "signal": "pubmed, research",
-      "signalScore": 929.1694596875,
+      "signalScore": 928.1672479861111,
       "highlight": "described",
       "matchedKeywords": [
         "pubmed",
