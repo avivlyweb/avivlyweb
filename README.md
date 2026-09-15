@@ -80,11 +80,11 @@
 ## Live Lab Feed
 
 <!--LIVE-LAB-FEED-START-->
-> Auto-refreshed from public repo activity on Sep 14, 2026. Recency is filtered for signal, not just noise.
+> Auto-refreshed from public repo activity on Sep 15, 2026. Recency is filtered for signal, not just noise.
 
 | Repo | What changed matters | Signal | Updated |
 | --- | --- | --- | --- |
-| [inft-social-media-yonathan](https://github.com/avivlyweb/inft-social-media-yonathan) | Public work worth surfacing. | recent public work | Sep 14, 2026 |
+| [inft-social-media-yonathan](https://github.com/avivlyweb/inft-social-media-yonathan) | Public work worth surfacing. | recent public work | Sep 15, 2026 |
 | [feedback-ready-Canvas-E-I](https://github.com/avivlyweb/feedback-ready-Canvas-E-I) | feedback tool ready Canvas E&I | recent public work | Jul 24, 2026 |
 | [prettig-thuis](https://github.com/avivlyweb/prettig-thuis) | Base44 App: Prettig Thuis | recent public work | Aug 25, 2026 |
 | [a-proof-demo](https://github.com/avivlyweb/a-proof-demo) | Base44 App: A-PROOF Demo | proof, demo | Jun 12, 2026 |
