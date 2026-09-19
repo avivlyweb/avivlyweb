@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-18T11:20:13.348Z",
+  "generatedAt": "2026-09-19T11:03:51.925Z",
   "owner": "avivlyweb",
   "source": "GitHub public repos API",
   "totalPublicRepos": 39,
@@ -28,16 +28,33 @@
   },
   "recentPublicWork": [
     {
+      "name": "a-proof-demo",
+      "fullName": "avivlyweb/a-proof-demo",
+      "url": "https://github.com/avivlyweb/a-proof-demo",
+      "homepage": null,
+      "description": "Base44 App: A-PROOF Demo",
+      "pushedAt": "2026-09-19T07:42:43Z",
+      "stars": 0,
+      "language": "JavaScript",
+      "signal": "proof, demo",
+      "signalScore": 1099.8603133680556,
+      "highlight": "described",
+      "matchedKeywords": [
+        "proof",
+        "demo"
+      ]
+    },
+    {
       "name": "inft-social-media-yonathan",
       "fullName": "avivlyweb/inft-social-media-yonathan",
       "url": "https://github.com/avivlyweb/inft-social-media-yonathan",
       "homepage": "https://yonathan-tau.vercel.app",
       "description": null,
-      "pushedAt": "2026-09-15T03:49:38Z",
+      "pushedAt": "2026-09-19T08:38:38Z",
       "stars": 0,
-      "language": "TypeScript",
+      "language": "HTML",
       "signal": "recent public work",
-      "signalScore": 1031.6870908796295,
+      "signalScore": 1034.899144386574,
       "highlight": "quiet",
       "matchedKeywords": []
     },
@@ -51,7 +68,7 @@
       "stars": 0,
       "language": "TypeScript",
       "signal": "recent public work",
-      "signalScore": 1028.9548918055557,
+      "signalScore": 1027.9662508680556,
       "highlight": "described",
       "matchedKeywords": []
     },
@@ -65,26 +82,9 @@
       "stars": 0,
       "language": "JavaScript",
       "signal": "recent public work",
-      "signalScore": 1025.8239080092594,
+      "signalScore": 1024.8352670717593,
       "highlight": "described",
       "matchedKeywords": []
-    },
-    {
-      "name": "a-proof-demo",
-      "fullName": "avivlyweb/a-proof-demo",
-      "url": "https://github.com/avivlyweb/a-proof-demo",
-      "homepage": null,
-      "description": "Base44 App: A-PROOF Demo",
-      "pushedAt": "2026-06-12T14:58:31Z",
-      "stars": 0,
-      "language": "JavaScript",
-      "signal": "proof, demo",
-      "signalScore": 1002.1515931944444,
-      "highlight": "described",
-      "matchedKeywords": [
-        "proof",
-        "demo"
-      ]
     },
     {
       "name": "pubmed-gemini-extension",
@@ -96,7 +96,7 @@
       "stars": 3,
       "language": "Python",
       "signal": "pubmed, research",
-      "signalScore": 968.9561186574074,
+      "signalScore": 967.9674777199074,
       "highlight": "described",
       "matchedKeywords": [
         "pubmed",
@@ -114,7 +114,7 @@
       "stars": 0,
       "language": "Python",
       "signal": "pubmed, research",
-      "signalScore": 922.4521371759259,
+      "signalScore": 921.4634962384259,
       "highlight": "described",
       "matchedKeywords": [
         "pubmed",
