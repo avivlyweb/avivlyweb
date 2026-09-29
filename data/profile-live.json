@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-28T14:01:00.059Z",
+  "generatedAt": "2026-09-29T12:57:30.025Z",
   "owner": "avivlyweb",
   "source": "GitHub public repos API",
   "totalPublicRepos": 40,
@@ -37,12 +37,26 @@
       "stars": 0,
       "language": "JavaScript",
       "signal": "proof, demo",
-      "signalScore": 1090.7373025578704,
+      "signalScore": 1089.781400173611,
       "highlight": "described",
       "matchedKeywords": [
         "proof",
         "demo"
       ]
+    },
+    {
+      "name": "feedback-ready-Canvas-E-I",
+      "fullName": "avivlyweb/feedback-ready-Canvas-E-I",
+      "url": "https://github.com/avivlyweb/feedback-ready-Canvas-E-I",
+      "homepage": "https://feedback-ready-canvas-e-i.vercel.app",
+      "description": "feedback tool ready Canvas E&I",
+      "pushedAt": "2026-09-29T05:56:08Z",
+      "stars": 0,
+      "language": "TypeScript",
+      "signal": "recent public work",
+      "signalScore": 1084.7073839699074,
+      "highlight": "described",
+      "matchedKeywords": []
     },
     {
       "name": "inft-social-media-yonathan",
@@ -54,22 +68,8 @@
       "stars": 0,
       "language": "HTML",
       "signal": "recent public work",
-      "signalScore": 1032.0600803356483,
+      "signalScore": 1031.104177951389,
       "highlight": "quiet",
-      "matchedKeywords": []
-    },
-    {
-      "name": "feedback-ready-Canvas-E-I",
-      "fullName": "avivlyweb/feedback-ready-Canvas-E-I",
-      "url": "https://github.com/avivlyweb/feedback-ready-Canvas-E-I",
-      "homepage": "https://feedback-ready-canvas-e-i.vercel.app",
-      "description": "feedback tool ready Canvas E&I",
-      "pushedAt": "2026-07-24T10:15:16Z",
-      "stars": 0,
-      "language": "TypeScript",
-      "signal": "recent public work",
-      "signalScore": 1018.8432400578704,
-      "highlight": "described",
       "matchedKeywords": []
     },
     {
@@ -82,7 +82,7 @@
       "stars": 0,
       "language": "JavaScript",
       "signal": "recent public work",
-      "signalScore": 1015.7122562615741,
+      "signalScore": 1014.7563538773148,
       "highlight": "described",
       "matchedKeywords": []
     },
@@ -96,7 +96,7 @@
       "stars": 3,
       "language": "Python",
       "signal": "pubmed, research",
-      "signalScore": 958.8444669097222,
+      "signalScore": 957.8885645254629,
       "highlight": "described",
       "matchedKeywords": [
         "pubmed",
@@ -114,7 +114,7 @@
       "stars": 0,
       "language": "Python",
       "signal": "pubmed, research",
-      "signalScore": 912.3404854282408,
+      "signalScore": 911.3845830439815,
       "highlight": "described",
       "matchedKeywords": [
         "pubmed",
