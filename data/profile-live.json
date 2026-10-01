@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-30T12:39:34.444Z",
+  "generatedAt": "2026-10-01T13:22:15.299Z",
   "owner": "avivlyweb",
   "source": "GitHub public repos API",
   "totalPublicRepos": 40,
@@ -37,7 +37,7 @@
       "stars": 0,
       "language": "JavaScript",
       "signal": "proof, demo",
-      "signalScore": 1088.793849027778,
+      "signalScore": 1087.764209513889,
       "highlight": "described",
       "matchedKeywords": [
         "proof",
@@ -50,11 +50,11 @@
       "url": "https://github.com/avivlyweb/feedback-ready-Canvas-E-I",
       "homepage": "https://feedback-ready-canvas-e-i.vercel.app",
       "description": "feedback tool ready Canvas E&I",
-      "pushedAt": "2026-09-29T05:56:08Z",
+      "pushedAt": "2026-09-30T14:01:37Z",
       "stars": 0,
       "language": "TypeScript",
       "signal": "recent public work",
-      "signalScore": 1083.719832824074,
+      "signalScore": 1084.027334513889,
       "highlight": "described",
       "matchedKeywords": []
     },
@@ -68,7 +68,7 @@
       "stars": 0,
       "language": "HTML",
       "signal": "recent public work",
-      "signalScore": 1030.1166268055556,
+      "signalScore": 1029.0869872916667,
       "highlight": "quiet",
       "matchedKeywords": []
     },
@@ -82,7 +82,7 @@
       "stars": 0,
       "language": "JavaScript",
       "signal": "recent public work",
-      "signalScore": 1013.7688027314815,
+      "signalScore": 1012.7391632175926,
       "highlight": "described",
       "matchedKeywords": []
     },
@@ -96,7 +96,7 @@
       "stars": 3,
       "language": "Python",
       "signal": "pubmed, research",
-      "signalScore": 956.9010133796296,
+      "signalScore": 955.8713738657407,
       "highlight": "described",
       "matchedKeywords": [
         "pubmed",
@@ -114,7 +114,7 @@
       "stars": 0,
       "language": "Python",
       "signal": "pubmed, research",
-      "signalScore": 910.3970318981482,
+      "signalScore": 909.3673923726851,
       "highlight": "described",
       "matchedKeywords": [
         "pubmed",
