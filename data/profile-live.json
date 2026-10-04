@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-10-03T11:43:04.599Z",
+  "generatedAt": "2026-10-04T12:25:44.955Z",
   "owner": "avivlyweb",
   "source": "GitHub public repos API",
   "totalPublicRepos": 40,
-  "meaningfulRepos": 22,
+  "meaningfulRepos": 23,
   "featuredCreation": {
     "caption": "Latest creation",
     "repo": "prettig-thuis",
@@ -37,7 +37,7 @@
       "stars": 0,
       "language": "JavaScript",
       "signal": "proof, demo",
-      "signalScore": 1085.8330833564814,
+      "signalScore": 1084.8034495949073,
       "highlight": "described",
       "matchedKeywords": [
         "proof",
@@ -54,8 +54,22 @@
       "stars": 0,
       "language": "TypeScript",
       "signal": "recent public work",
-      "signalScore": 1082.0962083564814,
+      "signalScore": 1081.0665745949073,
       "highlight": "described",
+      "matchedKeywords": []
+    },
+    {
+      "name": "eliyadoesnails-game",
+      "fullName": "avivlyweb/eliyadoesnails-game",
+      "url": "https://github.com/avivlyweb/eliyadoesnails-game",
+      "homepage": "https://eliyadoesnails-game.vercel.app",
+      "description": null,
+      "pushedAt": "2026-10-04T12:12:49Z",
+      "stars": 0,
+      "language": "TypeScript",
+      "signal": "recent public work",
+      "signalScore": 1034.9910190393518,
+      "highlight": "quiet",
       "matchedKeywords": []
     },
     {
@@ -68,7 +82,7 @@
       "stars": 0,
       "language": "HTML",
       "signal": "recent public work",
-      "signalScore": 1027.1558611342593,
+      "signalScore": 1026.1262273726852,
       "highlight": "quiet",
       "matchedKeywords": []
     },
@@ -82,7 +96,7 @@
       "stars": 0,
       "language": "JavaScript",
       "signal": "recent public work",
-      "signalScore": 1010.8080370601851,
+      "signalScore": 1009.7784032986111,
       "highlight": "described",
       "matchedKeywords": []
     },
@@ -96,30 +110,12 @@
       "stars": 3,
       "language": "Python",
       "signal": "pubmed, research",
-      "signalScore": 953.9402477083333,
+      "signalScore": 952.9106139467592,
       "highlight": "described",
       "matchedKeywords": [
         "pubmed",
         "research",
         "extension"
-      ]
-    },
-    {
-      "name": "nagomi-pubmed-plugin",
-      "fullName": "avivlyweb/nagomi-pubmed-plugin",
-      "url": "https://github.com/avivlyweb/nagomi-pubmed-plugin",
-      "homepage": null,
-      "description": "Forensic-grade PubMed research engine — Claude Code plugin",
-      "pushedAt": "2026-02-27T22:11:18Z",
-      "stars": 0,
-      "language": "Python",
-      "signal": "pubmed, research",
-      "signalScore": 907.4362662268518,
-      "highlight": "described",
-      "matchedKeywords": [
-        "pubmed",
-        "research",
-        "plugin"
       ]
     }
   ],
