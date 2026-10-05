@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-04T12:25:44.955Z",
+  "generatedAt": "2026-10-05T14:46:34.256Z",
   "owner": "avivlyweb",
   "source": "GitHub public repos API",
   "totalPublicRepos": 40,
@@ -37,7 +37,7 @@
       "stars": 0,
       "language": "JavaScript",
       "signal": "proof, demo",
-      "signalScore": 1084.8034495949073,
+      "signalScore": 1083.7056567708332,
       "highlight": "described",
       "matchedKeywords": [
         "proof",
@@ -54,7 +54,7 @@
       "stars": 0,
       "language": "TypeScript",
       "signal": "recent public work",
-      "signalScore": 1081.0665745949073,
+      "signalScore": 1079.9687817708332,
       "highlight": "described",
       "matchedKeywords": []
     },
@@ -64,11 +64,11 @@
       "url": "https://github.com/avivlyweb/eliyadoesnails-game",
       "homepage": "https://eliyadoesnails-game.vercel.app",
       "description": null,
-      "pushedAt": "2026-10-04T12:12:49Z",
+      "pushedAt": "2026-10-04T18:46:50Z",
       "stars": 0,
-      "language": "TypeScript",
+      "language": "Python",
       "signal": "recent public work",
-      "signalScore": 1034.9910190393518,
+      "signalScore": 1034.166848888889,
       "highlight": "quiet",
       "matchedKeywords": []
     },
@@ -82,7 +82,7 @@
       "stars": 0,
       "language": "HTML",
       "signal": "recent public work",
-      "signalScore": 1026.1262273726852,
+      "signalScore": 1025.028434537037,
       "highlight": "quiet",
       "matchedKeywords": []
     },
@@ -96,7 +96,7 @@
       "stars": 0,
       "language": "JavaScript",
       "signal": "recent public work",
-      "signalScore": 1009.7784032986111,
+      "signalScore": 1008.6806104629629,
       "highlight": "described",
       "matchedKeywords": []
     },
@@ -110,7 +110,7 @@
       "stars": 3,
       "language": "Python",
       "signal": "pubmed, research",
-      "signalScore": 952.9106139467592,
+      "signalScore": 951.8128211111111,
       "highlight": "described",
       "matchedKeywords": [
         "pubmed",
