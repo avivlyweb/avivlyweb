@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-07T13:29:23.528Z",
+  "generatedAt": "2026-10-08T13:35:23.354Z",
   "owner": "avivlyweb",
   "source": "GitHub public repos API",
   "totalPublicRepos": 40,
@@ -11,7 +11,7 @@
     "summary": "A calm, trust-heavy Base44 app for care, routines, and home support.",
     "url": "https://github.com/avivlyweb/prettig-thuis",
     "homepage": null,
-    "pushedAt": "2026-08-25T07:06:39Z",
+    "pushedAt": "2026-10-08T08:30:19Z",
     "stars": 0,
     "source": "manual+live"
   },
@@ -33,11 +33,11 @@
       "url": "https://github.com/avivlyweb/a-proof-demo",
       "homepage": null,
       "description": "Base44 App: A-PROOF Demo",
-      "pushedAt": "2026-09-19T07:42:43Z",
+      "pushedAt": "2026-10-08T08:21:16Z",
       "stars": 0,
       "language": "JavaScript",
       "signal": "proof, demo",
-      "signalScore": 1081.7592531481482,
+      "signalScore": 1099.7818593287038,
       "highlight": "described",
       "matchedKeywords": [
         "proof",
@@ -54,7 +54,21 @@
       "stars": 0,
       "language": "TypeScript",
       "signal": "recent public work",
-      "signalScore": 1078.0223781481482,
+      "signalScore": 1077.0182134953702,
+      "highlight": "described",
+      "matchedKeywords": []
+    },
+    {
+      "name": "prettig-thuis",
+      "fullName": "avivlyweb/prettig-thuis",
+      "url": "https://github.com/avivlyweb/prettig-thuis",
+      "homepage": null,
+      "description": "Base44 App: Prettig Thuis",
+      "pushedAt": "2026-10-08T08:30:19Z",
+      "stars": 0,
+      "language": "JavaScript",
+      "signal": "recent public work",
+      "signalScore": 1049.788144050926,
       "highlight": "described",
       "matchedKeywords": []
     },
@@ -68,7 +82,7 @@
       "stars": 0,
       "language": "Python",
       "signal": "recent public work",
-      "signalScore": 1032.2204452777778,
+      "signalScore": 1031.2162806249999,
       "highlight": "quiet",
       "matchedKeywords": []
     },
@@ -82,22 +96,8 @@
       "stars": 0,
       "language": "HTML",
       "signal": "recent public work",
-      "signalScore": 1023.0820309259259,
+      "signalScore": 1022.0778662731482,
       "highlight": "quiet",
-      "matchedKeywords": []
-    },
-    {
-      "name": "prettig-thuis",
-      "fullName": "avivlyweb/prettig-thuis",
-      "url": "https://github.com/avivlyweb/prettig-thuis",
-      "homepage": null,
-      "description": "Base44 App: Prettig Thuis",
-      "pushedAt": "2026-08-25T07:06:39Z",
-      "stars": 0,
-      "language": "JavaScript",
-      "signal": "recent public work",
-      "signalScore": 1006.7342068518518,
-      "highlight": "described",
       "matchedKeywords": []
     },
     {
@@ -110,7 +110,7 @@
       "stars": 3,
       "language": "Python",
       "signal": "pubmed, research",
-      "signalScore": 949.8664175,
+      "signalScore": 948.8622528472222,
       "highlight": "described",
       "matchedKeywords": [
         "pubmed",
