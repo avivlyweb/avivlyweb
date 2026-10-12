@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-10-11T12:55:35.967Z",
+  "generatedAt": "2026-10-12T15:32:48.041Z",
   "owner": "avivlyweb",
   "source": "GitHub public repos API",
-  "totalPublicRepos": 34,
-  "meaningfulRepos": 17,
+  "totalPublicRepos": 35,
+  "meaningfulRepos": 18,
   "featuredCreation": {
     "caption": "Latest creation",
     "repo": "prettig-thuis",
@@ -25,6 +25,22 @@
   },
   "recentPublicWork": [
     {
+      "name": "thuisstem-showcase",
+      "fullName": "avivlyweb/thuisstem-showcase",
+      "url": "https://github.com/avivlyweb/thuisstem-showcase",
+      "homepage": null,
+      "description": "ThuisStem by Avivly: a short conversation at home, so the care professional knows how things really are. Product overview (no source code).",
+      "pushedAt": "2026-10-12T07:06:39Z",
+      "stars": 0,
+      "language": null,
+      "signal": "care",
+      "signalScore": 1074.6485064699073,
+      "highlight": "described",
+      "matchedKeywords": [
+        "care"
+      ]
+    },
+    {
       "name": "feedback-ready-Canvas-E-I",
       "fullName": "avivlyweb/feedback-ready-Canvas-E-I",
       "url": "https://github.com/avivlyweb/feedback-ready-Canvas-E-I",
@@ -34,8 +50,22 @@
       "stars": 0,
       "language": "TypeScript",
       "signal": "recent public work",
-      "signalScore": 1074.0458452893517,
+      "signalScore": 1072.9366777662037,
       "highlight": "described",
+      "matchedKeywords": []
+    },
+    {
+      "name": "inft-social-media-yonathan",
+      "fullName": "avivlyweb/inft-social-media-yonathan",
+      "url": "https://github.com/avivlyweb/inft-social-media-yonathan",
+      "homepage": "https://yonathan-tau.vercel.app",
+      "description": null,
+      "pushedAt": "2026-10-12T03:48:31Z",
+      "stars": 0,
+      "language": "HTML",
+      "signal": "recent public work",
+      "signalScore": 1034.5109138773148,
+      "highlight": "quiet",
       "matchedKeywords": []
     },
     {
@@ -48,21 +78,7 @@
       "stars": 0,
       "language": "Python",
       "signal": "recent public work",
-      "signalScore": 1028.2439124189814,
-      "highlight": "quiet",
-      "matchedKeywords": []
-    },
-    {
-      "name": "inft-social-media-yonathan",
-      "fullName": "avivlyweb/inft-social-media-yonathan",
-      "url": "https://github.com/avivlyweb/inft-social-media-yonathan",
-      "homepage": "https://yonathan-tau.vercel.app",
-      "description": null,
-      "pushedAt": "2026-09-25T15:27:31Z",
-      "stars": 0,
-      "language": "HTML",
-      "signal": "recent public work",
-      "signalScore": 1019.1054980671296,
+      "signalScore": 1027.1347448958334,
       "highlight": "quiet",
       "matchedKeywords": []
     },
@@ -76,7 +92,7 @@
       "stars": 3,
       "language": "Python",
       "signal": "pubmed, research",
-      "signalScore": 945.8898846412037,
+      "signalScore": 944.7807171180556,
       "highlight": "described",
       "matchedKeywords": [
         "pubmed",
@@ -94,25 +110,7 @@
       "stars": 0,
       "language": "Python",
       "signal": "pubmed, research",
-      "signalScore": 899.3859031597223,
-      "highlight": "described",
-      "matchedKeywords": [
-        "pubmed",
-        "research",
-        "plugin"
-      ]
-    },
-    {
-      "name": "pubmed-claude-plugin",
-      "fullName": "avivlyweb/pubmed-claude-plugin",
-      "url": "https://github.com/avivlyweb/pubmed-claude-plugin",
-      "homepage": null,
-      "description": "PhD-level PubMed medical research plugin for Claude Code. Search 35M+ studies, evidence-weighted verdicts, ABC-TOM v3.0 citation verification, and systematic evidence synthesis.",
-      "pushedAt": "2026-02-19T15:22:52Z",
-      "stars": 0,
-      "language": "Python",
-      "signal": "pubmed, research",
-      "signalScore": 891.102268900463,
+      "signalScore": 898.2767356365741,
       "highlight": "described",
       "matchedKeywords": [
         "pubmed",
