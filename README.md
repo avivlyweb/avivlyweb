@@ -80,13 +80,13 @@
 ## Live Lab Feed
 
 <!--LIVE-LAB-FEED-START-->
-> Auto-refreshed from public repo activity on Oct 14, 2026. Recency is filtered for signal, not just noise.
+> Auto-refreshed from public repo activity on Oct 15, 2026. Recency is filtered for signal, not just noise.
 
 | Repo | What changed matters | Signal | Updated |
 | --- | --- | --- | --- |
 | [thuisstem-showcase](https://github.com/avivlyweb/thuisstem-showcase) | ThuisStem by Avivly: a short conversation at home, so the care professional knows how things really are. Product overview (no source code). | care | Oct 12, 2026 |
 | [feedback-ready-Canvas-E-I](https://github.com/avivlyweb/feedback-ready-Canvas-E-I) | feedback tool ready Canvas E&I | recent public work | Sep 30, 2026 |
-| [inft-social-media-yonathan](https://github.com/avivlyweb/inft-social-media-yonathan) | Public work worth surfacing. | recent public work | Oct 12, 2026 |
+| [inft-social-media-yonathan](https://github.com/avivlyweb/inft-social-media-yonathan) | Public work worth surfacing. | recent public work | Oct 14, 2026 |
 | [eliyadoesnails-game](https://github.com/avivlyweb/eliyadoesnails-game) | Public work worth surfacing. | recent public work | Oct 4, 2026 |
 | [pubmed-gemini-extension](https://github.com/avivlyweb/pubmed-gemini-extension) | PubMed MCP server for Gemini CLI - PhD-level medical research analysis | pubmed, research | Mar 22, 2026 |
 | [nagomi-pubmed-plugin](https://github.com/avivlyweb/nagomi-pubmed-plugin) | Forensic-grade PubMed research engine — Claude Code plugin | pubmed, research | Feb 27, 2026 |

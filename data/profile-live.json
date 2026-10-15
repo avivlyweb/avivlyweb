@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-14T11:57:56.835Z",
+  "generatedAt": "2026-10-15T11:34:23.742Z",
   "owner": "avivlyweb",
   "source": "GitHub public repos API",
   "totalPublicRepos": 35,
@@ -34,7 +34,7 @@
       "stars": 0,
       "language": null,
       "signal": "care",
-      "signalScore": 1072.7977102430555,
+      "signalScore": 1071.814065486111,
       "highlight": "described",
       "matchedKeywords": [
         "care"
@@ -50,7 +50,7 @@
       "stars": 0,
       "language": "TypeScript",
       "signal": "recent public work",
-      "signalScore": 1071.0858815393517,
+      "signalScore": 1070.1022367824075,
       "highlight": "described",
       "matchedKeywords": []
     },
@@ -60,11 +60,11 @@
       "url": "https://github.com/avivlyweb/inft-social-media-yonathan",
       "homepage": "https://yonathan-tau.vercel.app",
       "description": null,
-      "pushedAt": "2026-10-12T03:48:31Z",
+      "pushedAt": "2026-10-14T16:08:31Z",
       "stars": 0,
       "language": "HTML",
       "signal": "recent public work",
-      "signalScore": 1032.660117650463,
+      "signalScore": 1034.1903617824073,
       "highlight": "quiet",
       "matchedKeywords": []
     },
@@ -78,7 +78,7 @@
       "stars": 0,
       "language": "Python",
       "signal": "recent public work",
-      "signalScore": 1025.2839486689813,
+      "signalScore": 1024.3003039120372,
       "highlight": "quiet",
       "matchedKeywords": []
     },
@@ -92,7 +92,7 @@
       "stars": 3,
       "language": "Python",
       "signal": "pubmed, research",
-      "signalScore": 942.9299208912037,
+      "signalScore": 941.9462761342593,
       "highlight": "described",
       "matchedKeywords": [
         "pubmed",
@@ -110,7 +110,7 @@
       "stars": 0,
       "language": "Python",
       "signal": "pubmed, research",
-      "signalScore": 896.4259394097222,
+      "signalScore": 895.4422946527777,
       "highlight": "described",
       "matchedKeywords": [
         "pubmed",
