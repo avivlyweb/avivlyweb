@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-23T11:43:32.957Z",
+  "generatedAt": "2026-10-24T11:06:39.255Z",
   "owner": "avivlyweb",
   "source": "GitHub public repos API",
   "totalPublicRepos": 35,
@@ -20,7 +20,7 @@
     "url": "https://github.com/avivlyweb/pubmed-gemini-extension",
     "homepage": null,
     "pushedAt": "2026-03-22T10:17:02Z",
-    "stars": 3,
+    "stars": 2,
     "source": "manual+live"
   },
   "recentPublicWork": [
@@ -34,7 +34,7 @@
       "stars": 0,
       "language": null,
       "signal": "care",
-      "signalScore": 1063.8077088425925,
+      "signalScore": 1062.8333303819445,
       "highlight": "described",
       "matchedKeywords": [
         "care"
@@ -50,7 +50,7 @@
       "stars": 0,
       "language": "TypeScript",
       "signal": "recent public work",
-      "signalScore": 1062.0958801388888,
+      "signalScore": 1061.1215016782407,
       "highlight": "described",
       "matchedKeywords": []
     },
@@ -60,11 +60,11 @@
       "url": "https://github.com/avivlyweb/inft-social-media-yonathan",
       "homepage": "https://yonathan-tau.vercel.app",
       "description": null,
-      "pushedAt": "2026-10-14T16:08:31Z",
+      "pushedAt": "2026-10-23T16:12:50Z",
       "stars": 0,
       "language": "HTML",
       "signal": "recent public work",
-      "signalScore": 1026.184005138889,
+      "signalScore": 1034.212624363426,
       "highlight": "quiet",
       "matchedKeywords": []
     },
@@ -78,7 +78,7 @@
       "stars": 0,
       "language": "Python",
       "signal": "recent public work",
-      "signalScore": 1016.2939472685185,
+      "signalScore": 1015.3195688078704,
       "highlight": "quiet",
       "matchedKeywords": []
     },
@@ -89,10 +89,10 @@
       "homepage": null,
       "description": "PubMed MCP server for Gemini CLI - PhD-level medical research analysis",
       "pushedAt": "2026-03-22T10:17:02Z",
-      "stars": 3,
+      "stars": 2,
       "language": "Python",
       "signal": "pubmed, research",
-      "signalScore": 933.9399194907407,
+      "signalScore": 924.9655410300926,
       "highlight": "described",
       "matchedKeywords": [
         "pubmed",
@@ -110,7 +110,7 @@
       "stars": 0,
       "language": "Python",
       "signal": "pubmed, research",
-      "signalScore": 887.4359379976852,
+      "signalScore": 886.4615595486111,
       "highlight": "described",
       "matchedKeywords": [
         "pubmed",
