@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-02T16:01:12.441Z",
+  "generatedAt": "2026-11-03T14:21:06.910Z",
   "owner": "avivlyweb",
   "source": "GitHub public repos API",
   "totalPublicRepos": 35,
@@ -34,7 +34,7 @@
       "stars": 0,
       "language": null,
       "signal": "care",
-      "signalScore": 1053.6287796180554,
+      "signalScore": 1052.6982880787036,
       "highlight": "described",
       "matchedKeywords": [
         "care"
@@ -50,8 +50,22 @@
       "stars": 0,
       "language": "TypeScript",
       "signal": "recent public work",
-      "signalScore": 1051.916950914352,
+      "signalScore": 1050.9864593749999,
       "highlight": "described",
+      "matchedKeywords": []
+    },
+    {
+      "name": "eliyadoesnails-game",
+      "fullName": "avivlyweb/eliyadoesnails-game",
+      "url": "https://github.com/avivlyweb/eliyadoesnails-game",
+      "homepage": "https://eliyadoesnails-game.vercel.app",
+      "description": null,
+      "pushedAt": "2026-11-02T20:26:17Z",
+      "stars": 0,
+      "language": "Python",
+      "signal": "recent public work",
+      "signalScore": 1034.2535890046297,
+      "highlight": "quiet",
       "matchedKeywords": []
     },
     {
@@ -64,21 +78,7 @@
       "stars": 0,
       "language": "HTML",
       "signal": "recent public work",
-      "signalScore": 1025.008073599537,
-      "highlight": "quiet",
-      "matchedKeywords": []
-    },
-    {
-      "name": "eliyadoesnails-game",
-      "fullName": "avivlyweb/eliyadoesnails-game",
-      "url": "https://github.com/avivlyweb/eliyadoesnails-game",
-      "homepage": "https://eliyadoesnails-game.vercel.app",
-      "description": null,
-      "pushedAt": "2026-10-04T18:46:50Z",
-      "stars": 0,
-      "language": "Python",
-      "signal": "recent public work",
-      "signalScore": 1006.1150180439815,
+      "signalScore": 1024.0775820601853,
       "highlight": "quiet",
       "matchedKeywords": []
     },
@@ -92,7 +92,7 @@
       "stars": 2,
       "language": "Python",
       "signal": "pubmed, research",
-      "signalScore": 915.7609902662036,
+      "signalScore": 914.8304987268518,
       "highlight": "described",
       "matchedKeywords": [
         "pubmed",
@@ -110,7 +110,7 @@
       "stars": 0,
       "language": "Python",
       "signal": "pubmed, research",
-      "signalScore": 877.2570087847222,
+      "signalScore": 876.3265172453704,
       "highlight": "described",
       "matchedKeywords": [
         "pubmed",
