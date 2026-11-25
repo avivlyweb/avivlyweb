@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-24T17:50:44.498Z",
+  "generatedAt": "2026-11-25T17:17:23.364Z",
   "owner": "avivlyweb",
   "source": "GitHub public repos API",
   "totalPublicRepos": 35,
@@ -34,7 +34,7 @@
       "stars": 0,
       "language": null,
       "signal": "care",
-      "signalScore": 1031.5527141435186,
+      "signalScore": 1030.5758754166668,
       "highlight": "described",
       "matchedKeywords": [
         "care"
@@ -50,7 +50,7 @@
       "stars": 0,
       "language": "TypeScript",
       "signal": "recent public work",
-      "signalScore": 1029.8408854398149,
+      "signalScore": 1028.864046712963,
       "highlight": "described",
       "matchedKeywords": []
     },
@@ -64,7 +64,7 @@
       "stars": 0,
       "language": "Python",
       "signal": "recent public work",
-      "signalScore": 1013.1080150694445,
+      "signalScore": 1012.1311763425925,
       "highlight": "quiet",
       "matchedKeywords": []
     },
@@ -78,7 +78,7 @@
       "stars": 0,
       "language": "HTML",
       "signal": "recent public work",
-      "signalScore": 1002.932008125,
+      "signalScore": 1001.9551693981482,
       "highlight": "quiet",
       "matchedKeywords": []
     },
@@ -92,7 +92,7 @@
       "stars": 2,
       "language": "Python",
       "signal": "pubmed, research",
-      "signalScore": 893.6849247916666,
+      "signalScore": 892.7080860648148,
       "highlight": "described",
       "matchedKeywords": [
         "pubmed",
@@ -110,7 +110,7 @@
       "stars": 0,
       "language": "Python",
       "signal": "pubmed, research",
-      "signalScore": 855.1809433101852,
+      "signalScore": 854.2041045833333,
       "highlight": "described",
       "matchedKeywords": [
         "pubmed",
