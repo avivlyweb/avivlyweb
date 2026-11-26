@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-25T17:17:23.364Z",
+  "generatedAt": "2026-11-26T16:57:56.371Z",
   "owner": "avivlyweb",
   "source": "GitHub public repos API",
   "totalPublicRepos": 35,
@@ -20,7 +20,7 @@
     "url": "https://github.com/avivlyweb/pubmed-gemini-extension",
     "homepage": null,
     "pushedAt": "2026-03-22T10:17:02Z",
-    "stars": 2,
+    "stars": 3,
     "source": "manual+live"
   },
   "recentPublicWork": [
@@ -34,7 +34,7 @@
       "stars": 0,
       "language": null,
       "signal": "care",
-      "signalScore": 1030.5758754166668,
+      "signalScore": 1029.5893822800927,
       "highlight": "described",
       "matchedKeywords": [
         "care"
@@ -50,7 +50,7 @@
       "stars": 0,
       "language": "TypeScript",
       "signal": "recent public work",
-      "signalScore": 1028.864046712963,
+      "signalScore": 1027.877553576389,
       "highlight": "described",
       "matchedKeywords": []
     },
@@ -64,7 +64,7 @@
       "stars": 0,
       "language": "Python",
       "signal": "recent public work",
-      "signalScore": 1012.1311763425925,
+      "signalScore": 1011.1446832060185,
       "highlight": "quiet",
       "matchedKeywords": []
     },
@@ -78,7 +78,7 @@
       "stars": 0,
       "language": "HTML",
       "signal": "recent public work",
-      "signalScore": 1001.9551693981482,
+      "signalScore": 1000.968676261574,
       "highlight": "quiet",
       "matchedKeywords": []
     },
@@ -89,10 +89,10 @@
       "homepage": null,
       "description": "PubMed MCP server for Gemini CLI - PhD-level medical research analysis",
       "pushedAt": "2026-03-22T10:17:02Z",
-      "stars": 2,
+      "stars": 3,
       "language": "Python",
       "signal": "pubmed, research",
-      "signalScore": 892.7080860648148,
+      "signalScore": 899.7215929282407,
       "highlight": "described",
       "matchedKeywords": [
         "pubmed",
@@ -110,7 +110,7 @@
       "stars": 0,
       "language": "Python",
       "signal": "pubmed, research",
-      "signalScore": 854.2041045833333,
+      "signalScore": 853.2176114467593,
       "highlight": "described",
       "matchedKeywords": [
         "pubmed",
